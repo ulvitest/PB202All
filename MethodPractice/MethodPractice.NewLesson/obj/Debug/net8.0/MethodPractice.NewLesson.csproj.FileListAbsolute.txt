@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\bin\Debug\net8.0\MethodPractice.NewLesson.exe
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\bin\Debug\net8.0\MethodPractice.NewLesson.deps.json
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\bin\Debug\net8.0\MethodPractice.NewLesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\bin\Debug\net8.0\MethodPractice.NewLesson.dll
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\bin\Debug\net8.0\MethodPractice.NewLesson.pdb
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.dll
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\refint\MethodPractice.NewLesson.dll
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.pdb
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\MethodPractice.NewLesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\MethodPractice\MethodPractice.NewLesson\obj\Debug\net8.0\ref\MethodPractice.NewLesson.dll
