@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\bin\Debug\net8.0\MehtodPart2.Homework.exe
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\bin\Debug\net8.0\MehtodPart2.Homework.deps.json
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\bin\Debug\net8.0\MehtodPart2.Homework.runtimeconfig.json
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\bin\Debug\net8.0\MehtodPart2.Homework.dll
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\bin\Debug\net8.0\MehtodPart2.Homework.pdb
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.AssemblyInfo.cs
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.dll
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\refint\MehtodPart2.Homework.dll
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.pdb
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\MehtodPart2.Homework.genruntimeconfig.cache
+C:\Users\USER\source\repos\MehtodPart2\MehtodPart2.Homework\obj\Debug\net8.0\ref\MehtodPart2.Homework.dll

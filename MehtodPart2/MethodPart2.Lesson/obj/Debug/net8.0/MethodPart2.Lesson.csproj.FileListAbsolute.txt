@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\bin\Debug\net8.0\MethodPart2.Lesson.exe
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\bin\Debug\net8.0\MethodPart2.Lesson.deps.json
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\bin\Debug\net8.0\MethodPart2.Lesson.runtimeconfig.json
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\bin\Debug\net8.0\MethodPart2.Lesson.dll
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\bin\Debug\net8.0\MethodPart2.Lesson.pdb
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.AssemblyInfo.cs
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.dll
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\refint\MethodPart2.Lesson.dll
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.pdb
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\MethodPart2.Lesson.genruntimeconfig.cache
+C:\Users\USER\source\repos\MehtodPart2\MethodPart2.Lesson\obj\Debug\net8.0\ref\MethodPart2.Lesson.dll
