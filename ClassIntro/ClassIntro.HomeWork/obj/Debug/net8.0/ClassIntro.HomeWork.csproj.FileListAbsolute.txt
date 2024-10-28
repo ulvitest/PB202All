@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\bin\Debug\net8.0\ClassIntro.HomeWork.exe
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\bin\Debug\net8.0\ClassIntro.HomeWork.deps.json
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\bin\Debug\net8.0\ClassIntro.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\bin\Debug\net8.0\ClassIntro.HomeWork.dll
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\bin\Debug\net8.0\ClassIntro.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.sourcelink.json
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.dll
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\refint\ClassIntro.HomeWork.dll
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ClassIntro.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.HomeWork\obj\Debug\net8.0\ref\ClassIntro.HomeWork.dll

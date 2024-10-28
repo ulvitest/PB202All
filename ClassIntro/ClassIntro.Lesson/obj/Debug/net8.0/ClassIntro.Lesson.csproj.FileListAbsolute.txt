@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\bin\Debug\net8.0\ClassIntro.Lesson.exe
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\bin\Debug\net8.0\ClassIntro.Lesson.deps.json
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\bin\Debug\net8.0\ClassIntro.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\bin\Debug\net8.0\ClassIntro.Lesson.dll
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\bin\Debug\net8.0\ClassIntro.Lesson.pdb
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.sourcelink.json
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.dll
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\refint\ClassIntro.Lesson.dll
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.pdb
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ClassIntro.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\ClassIntro\ClassIntro.Lesson\obj\Debug\net8.0\ref\ClassIntro.Lesson.dll
