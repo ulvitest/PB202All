@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InheritanceDateTimeAccessModifiers.HomeWork/1.0.0": {
+        "runtime": {
+          "InheritanceDateTimeAccessModifiers.HomeWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InheritanceDateTimeAccessModifiers.HomeWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

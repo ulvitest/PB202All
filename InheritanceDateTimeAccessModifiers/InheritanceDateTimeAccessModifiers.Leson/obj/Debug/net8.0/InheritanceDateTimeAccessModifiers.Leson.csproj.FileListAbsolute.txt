@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.exe
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.deps.json
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.dll
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.pdb
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.sourcelink.json
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.dll
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\refint\InheritanceDateTimeAccessModifiers.Leson.dll
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.pdb
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.Leson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.Leson\obj\Debug\net8.0\ref\InheritanceDateTimeAccessModifiers.Leson.dll

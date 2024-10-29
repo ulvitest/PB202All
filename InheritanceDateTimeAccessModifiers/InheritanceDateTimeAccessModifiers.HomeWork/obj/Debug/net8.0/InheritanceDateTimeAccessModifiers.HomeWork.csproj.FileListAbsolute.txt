@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.exe
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.deps.json
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.dll
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\bin\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.sourcelink.json
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.dll
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\refint\InheritanceDateTimeAccessModifiers.HomeWork.dll
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\InheritanceDateTimeAccessModifiers.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\InheritanceDateTimeAccessModifiers\InheritanceDateTimeAccessModifiers.HomeWork\obj\Debug\net8.0\ref\InheritanceDateTimeAccessModifiers.HomeWork.dll
