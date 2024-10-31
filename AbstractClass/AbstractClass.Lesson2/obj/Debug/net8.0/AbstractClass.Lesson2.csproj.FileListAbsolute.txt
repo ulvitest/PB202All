@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\bin\Debug\net8.0\AbstractClass.Lesson2.exe
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\bin\Debug\net8.0\AbstractClass.Lesson2.deps.json
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\bin\Debug\net8.0\AbstractClass.Lesson2.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\bin\Debug\net8.0\AbstractClass.Lesson2.dll
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\bin\Debug\net8.0\AbstractClass.Lesson2.pdb
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.sourcelink.json
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.dll
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\refint\AbstractClass.Lesson2.dll
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.pdb
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\AbstractClass.Lesson2.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClass.Lesson2\obj\Debug\net8.0\ref\AbstractClass.Lesson2.dll
