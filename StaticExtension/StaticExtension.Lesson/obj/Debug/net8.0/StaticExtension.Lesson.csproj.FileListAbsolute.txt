@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\bin\Debug\net8.0\StaticExtension.Lesson.exe
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\bin\Debug\net8.0\StaticExtension.Lesson.deps.json
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\bin\Debug\net8.0\StaticExtension.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\bin\Debug\net8.0\StaticExtension.Lesson.dll
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\bin\Debug\net8.0\StaticExtension.Lesson.pdb
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.sourcelink.json
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.dll
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\refint\StaticExtension.Lesson.dll
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.pdb
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\StaticExtension.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.Lesson\obj\Debug\net8.0\ref\StaticExtension.Lesson.dll

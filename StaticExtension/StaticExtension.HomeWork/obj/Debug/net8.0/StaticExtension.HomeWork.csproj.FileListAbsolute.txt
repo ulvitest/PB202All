@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\bin\Debug\net8.0\StaticExtension.HomeWork.exe
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\bin\Debug\net8.0\StaticExtension.HomeWork.deps.json
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\bin\Debug\net8.0\StaticExtension.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\bin\Debug\net8.0\StaticExtension.HomeWork.dll
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\bin\Debug\net8.0\StaticExtension.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.sourcelink.json
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.dll
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\refint\StaticExtension.HomeWork.dll
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\StaticExtension.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\StaticExtension\StaticExtension.HomeWork\obj\Debug\net8.0\ref\StaticExtension.HomeWork.dll

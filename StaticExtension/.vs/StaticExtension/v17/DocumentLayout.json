@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\staticextension\\staticextension.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|solutionrelative:staticextension.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\staticextension\\staticextension.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|solutionrelative:staticextension.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\staticextension\\staticextension.lesson\\extensions\\studentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|solutionrelative:staticextension.lesson\\extensions\\studentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\staticextension\\staticextension.lesson\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|solutionrelative:staticextension.lesson\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\staticextension\\staticextension.lesson\\extensions\\intextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2E2CD2-6AC1-4542-B3AF-3136E643E582}|StaticExtension.Lesson\\StaticExtension.Lesson.csproj|solutionrelative:staticextension.lesson\\extensions\\intextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentExtension.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Extensions\\StudentExtension.cs",
+              "RelativeDocumentMoniker": "StaticExtension.Lesson\\Extensions\\StudentExtension.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Extensions\\StudentExtension.cs",
+              "RelativeToolTip": "StaticExtension.Lesson\\Extensions\\StudentExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:41:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntExtension.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Extensions\\IntExtension.cs",
+              "RelativeDocumentMoniker": "StaticExtension.Lesson\\Extensions\\IntExtension.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Extensions\\IntExtension.cs",
+              "RelativeToolTip": "StaticExtension.Lesson\\Extensions\\IntExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:01:30.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Extensions\\StringExtension.cs",
+              "RelativeDocumentMoniker": "StaticExtension.Lesson\\Extensions\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Extensions\\StringExtension.cs",
+              "RelativeToolTip": "StaticExtension.Lesson\\Extensions\\StringExtension.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:54:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StaticExtension.Lesson\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Models\\Student.cs",
+              "RelativeToolTip": "StaticExtension.Lesson\\Models\\Student.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:17:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Program.cs",
+              "RelativeDocumentMoniker": "StaticExtension.Lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\StaticExtension\\StaticExtension.Lesson\\Program.cs",
+              "RelativeToolTip": "StaticExtension.Lesson\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:15:45.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
