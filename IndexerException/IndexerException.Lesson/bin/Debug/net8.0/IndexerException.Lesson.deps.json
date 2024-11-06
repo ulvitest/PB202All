@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IndexerException.Lesson/1.0.0": {
+        "dependencies": {
+          "IndexerException.Library": "1.0.0"
+        },
+        "runtime": {
+          "IndexerException.Lesson.dll": {}
+        }
+      },
+      "IndexerException.Library/1.0.0": {
+        "runtime": {
+          "IndexerException.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexerException.Lesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IndexerException.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\bin\Debug\net8.0\IndexerException.Library.deps.json
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\bin\Debug\net8.0\IndexerException.Library.dll
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\bin\Debug\net8.0\IndexerException.Library.pdb
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.sourcelink.json
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.dll
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\refint\IndexerException.Library.dll
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\IndexerException.Library.pdb
+C:\Users\USER\Desktop\PB202\IndexerException\IndexerException.Library\obj\Debug\net8.0\ref\IndexerException.Library.dll

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|c:\\users\\user\\desktop\\pb202\\casting\\casting.generics\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|solutionrelative:casting.generics\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|c:\\users\\user\\desktop\\pb202\\casting\\casting.generics\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|solutionrelative:casting.generics\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|c:\\users\\user\\desktop\\pb202\\casting\\casting.generics\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|solutionrelative:casting.generics\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|c:\\users\\user\\desktop\\pb202\\casting\\casting.generics\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|solutionrelative:casting.generics\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|c:\\users\\user\\desktop\\pb202\\casting\\casting.generics\\service\\myintlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|solutionrelative:casting.generics\\service\\myintlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|c:\\users\\user\\desktop\\pb202\\casting\\casting.generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD0E4AE-0090-4461-8FE6-9073BAAFA37C}|Casting.Generics\\Casting.Generics.csproj|solutionrelative:casting.generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Casting.Generics\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Casting.Generics\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:35:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Casting.Generics\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Casting.Generics\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:32:19.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Casting.Generics\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Models\\Test.cs",
+              "RelativeToolTip": "Casting.Generics\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:27:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Casting.Generics\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Models\\Student.cs",
+              "RelativeToolTip": "Casting.Generics\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:02:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyIntList.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Service\\MyIntList.cs",
+              "RelativeDocumentMoniker": "Casting.Generics\\Service\\MyIntList.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Service\\MyIntList.cs",
+              "RelativeToolTip": "Casting.Generics\\Service\\MyIntList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:53:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Casting.Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Casting\\Casting.Generics\\Program.cs",
+              "RelativeToolTip": "Casting.Generics\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:50:56.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

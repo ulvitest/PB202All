@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\indexerexception\\indexerexception.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|solutionrelative:indexerexception.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\indexerexception\\indexerexception.lesson\\services\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|solutionrelative:indexerexception.lesson\\services\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\indexerexception\\indexerexception.lesson\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|solutionrelative:indexerexception.lesson\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\indexerexception\\indexerexception.lesson\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|solutionrelative:indexerexception.lesson\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\indexerexception\\indexerexception.lesson\\enums\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|solutionrelative:indexerexception.lesson\\enums\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\indexerexception\\indexerexception.lesson\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}|IndexerException.Lesson\\IndexerException.Lesson.csproj|solutionrelative:indexerexception.lesson\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "IndexerException.Lesson\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Enums\\Roles.cs",
+              "RelativeToolTip": "IndexerException.Lesson\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:29:26.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Services\\Account.cs",
+              "RelativeDocumentMoniker": "IndexerException.Lesson\\Services\\Account.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Services\\Account.cs",
+              "RelativeToolTip": "IndexerException.Lesson\\Services\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:28:43.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "IndexerException.Lesson\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "IndexerException.Lesson\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:10:59.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "IndexerException.Lesson\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Models\\Order.cs",
+              "RelativeToolTip": "IndexerException.Lesson\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:07:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeekDays.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Enums\\WeekDays.cs",
+              "RelativeDocumentMoniker": "IndexerException.Lesson\\Enums\\WeekDays.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Enums\\WeekDays.cs",
+              "RelativeToolTip": "IndexerException.Lesson\\Enums\\WeekDays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:02:12.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Program.cs",
+              "RelativeDocumentMoniker": "IndexerException.Lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\IndexerException\\IndexerException.Lesson\\Program.cs",
+              "RelativeToolTip": "IndexerException.Lesson\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAQwJYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:44:22.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

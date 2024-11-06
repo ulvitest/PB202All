@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerException.Lesson", "IndexerException.Lesson\IndexerException.Lesson.csproj", "{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerException.Library", "IndexerException.Library\IndexerException.Library.csproj", "{36FB787C-D8FE-4FE3-9264-D50D4F71B76C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BC36C0-F0E3-4C1D-BD2E-0F18B0332711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FB787C-D8FE-4FE3-9264-D50D4F71B76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FB787C-D8FE-4FE3-9264-D50D4F71B76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FB787C-D8FE-4FE3-9264-D50D4F71B76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FB787C-D8FE-4FE3-9264-D50D4F71B76C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E632633A-C9F3-49CD-A680-A39825A52D53}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\bin\Debug\net8.0\Casting.Lesson.exe
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\bin\Debug\net8.0\Casting.Lesson.deps.json
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\bin\Debug\net8.0\Casting.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\bin\Debug\net8.0\Casting.Lesson.dll
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\bin\Debug\net8.0\Casting.Lesson.pdb
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.sourcelink.json
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.dll
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\refint\Casting.Lesson.dll
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.pdb
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\Casting.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\Casting\Casting.Lesson\obj\Debug\net8.0\ref\Casting.Lesson.dll

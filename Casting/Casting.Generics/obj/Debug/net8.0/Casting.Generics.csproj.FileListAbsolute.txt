@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\bin\Debug\net8.0\Casting.Generics.exe
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\bin\Debug\net8.0\Casting.Generics.deps.json
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\bin\Debug\net8.0\Casting.Generics.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\bin\Debug\net8.0\Casting.Generics.dll
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\bin\Debug\net8.0\Casting.Generics.pdb
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.sourcelink.json
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.dll
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\refint\Casting.Generics.dll
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.pdb
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\Casting.Generics.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\Casting\Casting.Generics\obj\Debug\net8.0\ref\Casting.Generics.dll
