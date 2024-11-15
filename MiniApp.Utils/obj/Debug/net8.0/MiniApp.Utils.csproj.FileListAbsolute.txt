@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.sourcelink.json
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\bin\Debug\net8.0\MiniApp.Utils.deps.json
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\bin\Debug\net8.0\MiniApp.Utils.dll
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\bin\Debug\net8.0\MiniApp.Utils.pdb
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.dll
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\refint\MiniApp.Utils.dll
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\MiniApp.Utils.pdb
+C:\Users\USER\Desktop\PB202\MiniApp.Utils\obj\Debug\net8.0\ref\MiniApp.Utils.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\bin\Debug\net8.0\CollectionPart2Delegate.Lesson.exe
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\bin\Debug\net8.0\CollectionPart2Delegate.Lesson.deps.json
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\bin\Debug\net8.0\CollectionPart2Delegate.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\bin\Debug\net8.0\CollectionPart2Delegate.Lesson.dll
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\bin\Debug\net8.0\CollectionPart2Delegate.Lesson.pdb
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.sourcelink.json
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.dll
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\refint\CollectionPart2Delegate.Lesson.dll
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.pdb
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\CollectionPart2Delegate.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\CollectionPart2Delegate\CollectionPart2Delegate.Lesson\obj\Debug\net8.0\ref\CollectionPart2Delegate.Lesson.dll

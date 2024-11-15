@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniApp/1.0.0": {
+        "dependencies": {
+          "MiniApp.Utils": "1.0.0"
+        },
+        "runtime": {
+          "MiniApp.dll": {}
+        }
+      },
+      "MiniApp.Utils/1.0.0": {
+        "runtime": {
+          "MiniApp.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniApp.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
