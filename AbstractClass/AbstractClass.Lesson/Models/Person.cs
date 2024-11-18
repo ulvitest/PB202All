@@ -4,6 +4,10 @@ namespace AbstractClass.Lesson.Models
 {
     internal abstract class Person
     {
+        public Person()
+        {
+            
+        }
         public Person(int ıd, string name, string surName)
         {
             Id = ıd;

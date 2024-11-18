@@ -18,17 +18,24 @@ namespace AbstractClass.Lesson
             //polymorphism
             //override (dynmaic) runtime
             //method overloading,operator overloading (static) compile
-            Student[] students = { student, new(2, "Test", "", 20) };
-            foreach (var item in students)
-            {
-                Console.WriteLine(item);
-            }
+            //Student[] students = { student, new(2, "Test", "", 20) };
+            //foreach (var item in students)
+            //{
+            //    Console.WriteLine(item);
+            //}
             //object[] numbers = { student,worker,1,"",true,'a'};
 
             //Person person = new(12, "", "");
             //abstract=>class,method(property),method
             //access modifers:
             //non access modifiers:partial,abstract,static,sealed
+            DesignStudent designStudent = new DesignStudent();
+            designStudent.Id=20;
+            designStudent.Name = "Test";
+            designStudent.SurName = "lorem";
+            designStudent.Point = 20;
+            designStudent.Info();
+            designStudent.GetInfo();
 
         }
     }

@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\interfaces\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\interfaces\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|solutionrelative:abstractclass.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\interfaces\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\interfaces\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|solutionrelative:abstractclass.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\interfaces\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\interfaces\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson2\\models\\designengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BEE309-5002-44AF-B803-194DDA90E2DF}|AbstractClass.Lesson2\\AbstractClass.Lesson2.csproj|solutionrelative:abstractclass.lesson2\\models\\designengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|solutionrelative:abstractclass.lesson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "A.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\A.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Interfaces\\A.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\A.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Interfaces\\A.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:52:51.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IWork.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\IWork.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Interfaces\\IWork.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\IWork.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Interfaces\\IWork.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AbstractClass.Lesson\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Models\\Student.cs",
+              "RelativeToolTip": "AbstractClass.Lesson\\Models\\Student.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:50:14.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:46:05.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Services\\TestService.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Services\\TestService.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Services\\TestService.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Services\\TestService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:42:16.277Z",
+              "WhenOpened": "2024-11-18T13:31:40.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICalculate.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\ICalculate.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Interfaces\\ICalculate.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Interfaces\\ICalculate.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Interfaces\\ICalculate.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass.Lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Program.cs",
+              "RelativeToolTip": "AbstractClass.Lesson\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:40:17.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DesignEngineer.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Models\\DesignEngineer.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Models\\DesignEngineer.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Models\\DesignEngineer.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Models\\DesignEngineer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:25:51.751Z",
+              "WhenOpened": "2024-11-18T13:31:20.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractClass.Lesson2\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson2\\Program.cs",
-              "RelativeToolTip": "AbstractClass.Lesson2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClass.Lesson\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Models\\Person.cs",
+              "RelativeToolTip": "AbstractClass.Lesson\\Models\\Person.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:19:03.165Z",
+              "WhenOpened": "2024-11-18T13:30:37.229Z",
               "EditorCaption": ""
             }
           ]

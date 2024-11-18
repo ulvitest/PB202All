@@ -9,11 +9,15 @@ namespace AbstractClass.Lesson.Models
     internal class Student:Person
     {
         public int Point { get; set; }
+        public Student()
+        {
+            
+        }
         public Student(int id,string name,string surname,int point):base(id,name,surname)
         {
             Point = point;
         }
-        public override void Info()
+        public sealed override void Info()
         {
             Console.WriteLine($"Id: {Id} Name: {Name} Surname:{SurName} Point {Point}");
         }
@@ -26,6 +30,14 @@ namespace AbstractClass.Lesson.Models
         {
             Console.WriteLine("student detail");
         }
+        public void GetInfo()
+        {
+            Console.WriteLine("Samid");
+        }
       
+    }
+    class DesignStudent:Student
+    {
+       
     }
 }

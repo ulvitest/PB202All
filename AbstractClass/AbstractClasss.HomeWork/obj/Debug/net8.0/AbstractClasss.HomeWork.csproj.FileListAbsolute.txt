@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\bin\Debug\net8.0\AbstractClasss.HomeWork.exe
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\bin\Debug\net8.0\AbstractClasss.HomeWork.deps.json
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\bin\Debug\net8.0\AbstractClasss.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\bin\Debug\net8.0\AbstractClasss.HomeWork.dll
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\bin\Debug\net8.0\AbstractClasss.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.sourcelink.json
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.dll
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\refint\AbstractClasss.HomeWork.dll
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.pdb
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\AbstractClasss.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\AbstractClass\AbstractClasss.HomeWork\obj\Debug\net8.0\ref\AbstractClasss.HomeWork.dll
