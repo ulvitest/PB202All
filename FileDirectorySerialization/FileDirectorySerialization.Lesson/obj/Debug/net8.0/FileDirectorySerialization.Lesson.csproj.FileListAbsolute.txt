@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\bin\Debug\net8.0\FileDirectorySerialization.Lesson.exe
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\bin\Debug\net8.0\FileDirectorySerialization.Lesson.deps.json
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\bin\Debug\net8.0\FileDirectorySerialization.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\bin\Debug\net8.0\FileDirectorySerialization.Lesson.dll
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\bin\Debug\net8.0\FileDirectorySerialization.Lesson.pdb
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.sourcelink.json
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.dll
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\refint\FileDirectorySerialization.Lesson.dll
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.pdb
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\FileDirectorySerialization.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\FileDirectorySerialization\FileDirectorySerialization.Lesson\obj\Debug\net8.0\ref\FileDirectorySerialization.Lesson.dll
