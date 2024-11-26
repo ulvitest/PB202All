@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThreadTaskExample/1.0.0": {
+        "runtime": {
+          "ThreadTaskExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadTaskExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

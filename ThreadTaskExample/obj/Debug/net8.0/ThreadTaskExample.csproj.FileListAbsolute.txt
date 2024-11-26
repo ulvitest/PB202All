@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\bin\Debug\net8.0\ThreadTaskExample.exe
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\bin\Debug\net8.0\ThreadTaskExample.deps.json
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\bin\Debug\net8.0\ThreadTaskExample.runtimeconfig.json
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\bin\Debug\net8.0\ThreadTaskExample.dll
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\bin\Debug\net8.0\ThreadTaskExample.pdb
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.sourcelink.json
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.dll
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\refint\ThreadTaskExample.dll
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.pdb
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ThreadTaskExample.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB202\ThreadTaskExample\obj\Debug\net8.0\ref\ThreadTaskExample.dll

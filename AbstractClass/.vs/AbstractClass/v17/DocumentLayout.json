@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|solutionrelative:abstractclass.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|solutionrelative:abstractclass.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|solutionrelative:abstractclass.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50462AB8-7FD6-4DCE-92F6-7C269512EC1B}|AbstractClass.Lesson\\AbstractClass.Lesson.csproj|c:\\users\\user\\desktop\\pb202\\abstractclass\\abstractclass.lesson\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Models\\Student.cs",
               "RelativeDocumentMoniker": "AbstractClass.Lesson\\Models\\Student.cs",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Program.cs",
               "RelativeDocumentMoniker": "AbstractClass.Lesson\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\AbstractClass\\AbstractClass.Lesson\\Program.cs",
               "RelativeToolTip": "AbstractClass.Lesson\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAkAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T13:31:20.13Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "AbstractClass.Lesson\\Models\\Person.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAYwAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:30:37.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:30:37.229Z"
             }
           ]
         }
