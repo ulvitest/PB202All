@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmPractice.Lesson", "OrmPractice.Lesson\OrmPractice.Lesson.csproj", "{1A30CB6D-6746-4F5C-915C-31C3AF9AAA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmPractice.CodeFirst", "OrmPractice.CodeFirst\OrmPractice.CodeFirst.csproj", "{D736B2BB-972A-40B0-83EF-77F6EEB7FBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A30CB6D-6746-4F5C-915C-31C3AF9AAA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A30CB6D-6746-4F5C-915C-31C3AF9AAA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A30CB6D-6746-4F5C-915C-31C3AF9AAA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A30CB6D-6746-4F5C-915C-31C3AF9AAA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D736B2BB-972A-40B0-83EF-77F6EEB7FBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D736B2BB-972A-40B0-83EF-77F6EEB7FBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D736B2BB-972A-40B0-83EF-77F6EEB7FBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D736B2BB-972A-40B0-83EF-77F6EEB7FBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F28096-AF16-4FB5-A560-E03DFE7A283B}
+	EndGlobalSection
+EndGlobal
