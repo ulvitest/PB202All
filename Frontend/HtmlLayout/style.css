@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    border: 1px solid black;
+}
+.cardImage{
+    width: 100%;
+    height: 180px;
+    position: relative;
+}
+.cardImage img{
+    width: 100%;
+    height: 100%;
+}
+.cardImage span{
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 3px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.cardImage .bye{
+    right: 50px; 
+}
+/* .parent{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+    z-index: 100;
+   
+}
+.relativeElement{
+  width: 50px;
+  height: 50px;
+  border: 2px solid red;
+  position: relative;
+  right: 10px;
+   
+} */
+/* .absoluteElement{
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(0, 255, 115);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 20;
+    
+
+} */

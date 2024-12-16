@@ -1,0 +1,20 @@
+
+
+marquee{
+    color: red;
+   }
+
+
+.link{
+    text-decoration: none;
+    border: 1px solid;
+    padding: 3px;
+    background-color: teal;
+    border-radius: 4px; 
+}
+.colorRed{
+    color: red;
+}
+.colorGreen{
+    color: red;
+}

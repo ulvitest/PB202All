@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{E9D23520-6CD1-4DF4-A143-290F2369C0D8}|Academy.App\\Academy.App.csproj|solutionrelative:academy.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9D23520-6CD1-4DF4-A143-290F2369C0D8}|Academy.App\\Academy.App.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.app\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9D23520-6CD1-4DF4-A143-290F2369C0D8}|Academy.App\\Academy.App.csproj|solutionrelative:academy.app\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45D319FA-4325-4428-A60A-E1800A0F47CD}|Academy.Data\\Academy.Data.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.data\\dataaccess\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D319FA-4325-4428-A60A-E1800A0F47CD}|Academy.Data\\Academy.Data.csproj|solutionrelative:academy.data\\dataaccess\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9D23520-6CD1-4DF4-A143-290F2369C0D8}|Academy.App\\Academy.App.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.app\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9D23520-6CD1-4DF4-A143-290F2369C0D8}|Academy.App\\Academy.App.csproj|solutionrelative:academy.app\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4170316A-DD88-450A-9699-858608638E69}|Academy.Core\\Academy.Core.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4170316A-DD88-450A-9699-858608638E69}|Academy.Core\\Academy.Core.csproj|solutionrelative:academy.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D319FA-4325-4428-A60A-E1800A0F47CD}|Academy.Data\\Academy.Data.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.data\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D319FA-4325-4428-A60A-E1800A0F47CD}|Academy.Data\\Academy.Data.csproj|solutionrelative:academy.data\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE393DC-741D-4E28-A58B-FB5F0DA65896}|Academy.Service\\Academy.Service.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.service\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE393DC-741D-4E28-A58B-FB5F0DA65896}|Academy.Service\\Academy.Service.csproj|solutionrelative:academy.service\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE393DC-741D-4E28-A58B-FB5F0DA65896}|Academy.Service\\Academy.Service.csproj|c:\\users\\user\\desktop\\pb202\\academy\\academy.service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE393DC-741D-4E28-A58B-FB5F0DA65896}|Academy.Service\\Academy.Service.csproj|solutionrelative:academy.service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,16 +50,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.App\\Enums\\Menu.cs",
-              "RelativeDocumentMoniker": "Academy.App\\Enums\\Menu.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.App\\Enums\\Menu.cs",
-              "RelativeToolTip": "Academy.App\\Enums\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "DocumentIndex": 4,
+              "Title": "AcademyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Data\\AcademyDbContext.cs",
+              "RelativeDocumentMoniker": "Academy.Data\\AcademyDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Data\\AcademyDbContext.cs",
+              "RelativeToolTip": "Academy.Data\\AcademyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:59:25.691Z",
+              "WhenOpened": "2024-12-03T11:14:59.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Data\\DataAccess\\Configurations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "Academy.Data\\DataAccess\\Configurations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Data\\DataAccess\\Configurations\\GroupConfiguration.cs",
+              "RelativeToolTip": "Academy.Data\\DataAccess\\Configurations\\GroupConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:42:00.582Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Service\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "Academy.Service\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Service\\Services\\GroupService.cs",
+              "RelativeToolTip": "Academy.Service\\Services\\GroupService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:37:27.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Service\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Academy.Service\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Service\\Services\\StudentService.cs",
+              "RelativeToolTip": "Academy.Service\\Services\\StudentService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:08:17.636Z"
             },
             {
               "$type": "Document",
@@ -55,8 +107,7 @@
               "RelativeToolTip": "Academy.App\\Controllers\\GroupController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:28:16.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:28:16.315Z"
             },
             {
               "$type": "Document",
@@ -64,12 +115,24 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.App\\Program.cs",
               "RelativeDocumentMoniker": "Academy.App\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.App\\Program.cs",
-              "RelativeToolTip": "Academy.App\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.App\\Program.cs*",
+              "RelativeToolTip": "Academy.App\\Program.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T11:28:03.404Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Academy.Core\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB202\\Academy\\Academy.Core\\Entities\\Group.cs",
+              "RelativeToolTip": "Academy.Core\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:40:54.538Z"
             }
           ]
         }
