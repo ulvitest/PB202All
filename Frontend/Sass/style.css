@@ -1,0 +1,30 @@
+body .fail, body .success, body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+body .success {
+  border: 1px solid gray;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+body .success:hover {
+  background-color: aquamarine;
+}
+body .fail {
+  border: 10px solid black;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}/*# sourceMappingURL=style.css.map */
