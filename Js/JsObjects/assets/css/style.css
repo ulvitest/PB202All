@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 1000px;
+}
+.sideBar{
+ width: 300px;
+ background-color: teal;
+ height: 100vh;
+ position: fixed;
+ transition: .7s;
+}
+.sideBar ul{
+
+}
+.sideBar i{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+.sideBar ul li{
+    list-style-type: none;
+    padding: 20px;
+}
+.sideBar ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.test{
+    transform:  translateX(-300px);
+}

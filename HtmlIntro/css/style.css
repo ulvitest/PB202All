@@ -1,0 +1,60 @@
+/* p{
+    background-color: teal;
+    color: white;
+} */
+ /* #text{
+    background-color: teal;
+    color: white; 
+ } */
+  /* .text{
+    background-color: teal;
+    color: white;
+  } */
+   /* *{
+    color: red;
+    font-size: 50px;
+   } */
+    /* div>.text{
+        color: white;
+        background-color: teal;
+    } */
+
+    /* div p{
+        color: white;
+        background-color: teal;
+    } */
+     /* div+p{
+        color: white;
+        background-color: teal;
+     } */
+      /* div,p,h1,.abc,#text{
+        color: red;
+      } */
+      /* .text.text1{
+        color: white;
+        background-color: teal;
+      } 
+      .text .text1{
+        color: white;
+        background-color: teal;
+      } */
+       /* p{
+        color: white;
+        background-color: teal;
+        font-size: 40px;
+        transition: .6s;
+       } */
+       /* p:hover{
+        background-color: red;
+        color: black;
+       } */
+        /* p::before{
+            content: "bye";
+        } */
+
+        div{
+            margin: 50px auto;
+            height: 50px;
+            width: 300px;
+            border: 2px solid green;
+        }
