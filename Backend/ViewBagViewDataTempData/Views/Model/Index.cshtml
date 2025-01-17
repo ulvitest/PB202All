@@ -1,0 +1,13 @@
+﻿@model List<CarModel>
+
+<ul>
+    @foreach (var carModel in Model)
+    {
+        <a href="/car/index?modelId=@carModel.Id">
+            <li>
+                    @carModel.Name
+            </li>
+        </a>
+    }
+  
+</ul>

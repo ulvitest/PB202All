@@ -1,0 +1,18 @@
+﻿@{
+    List<Brand> brands = (List<Brand>)ViewData["Brands"];
+}
+<ul>
+    @foreach (var brand in brands)
+    {
+        <a asp-controller="model" asp-action="index" asp-route-brandId="@brand.Id">
+           <li>@brand.Name</li>
+        </a>
+    }
+   
+</ul>
+
+@* <h1>GroupName:  @ViewBag.Group </h1>
+<h1>GroupSize: @ViewData["Size"]</h1>
+<h1>GroupSubject: @TempData["Subject"]</h1> *@
+            
+
